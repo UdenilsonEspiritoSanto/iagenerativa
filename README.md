@@ -6,8 +6,8 @@
 Ebook elelaborado por Interligencia Artificial Generativa. 
 
 ## 💻 Tecnologias Utilizadas
+ - ChatGpt para fazer as buscas iniciais; 
  - GammaApp para gerar o slide em Pdf;
- 
  - IA Canva para gerar imagem da capa
 
 ## 🧐 Processo de Criação
